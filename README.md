@@ -1,4 +1,4 @@
-<img alt="Harsh's GitHub stats" align="left" src="https://github-readme-stats.vercel.app/api?username=harshag24&show_icons=true&theme=radical"/>
+<img alt="Harsh's GitHub stats" align="left" src="https://github-readme-stats.vercel.app/api?username=harshag24&show_icons=true&theme=merko"/>
 
 ## Hey there! :wave:
 
